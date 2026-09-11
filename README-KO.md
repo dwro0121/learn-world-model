@@ -138,4 +138,5 @@ QR 코드를 스캔해 위챗 대화방(微信交流群)에 참여하세요.
 | ---- | ---- | ----------- | ------ |
 | Zhimin Zhao | 프로젝트 리드 | Queen's University | [@zhimin-z](https://github.com/zhimin-z) |
 | Qi Wang | 프로젝트 리드 | Chinese Academy of Sciences | [@qiwang067](https://github.com/qiwang067) |
+| Dongwoo Ro | 기여자 |  | [@dwro0121](https://github.com/dwro0121) |
 | Xun Wang | 기여자 |  | [@wangxunx](https://github.com/wangxunx) |
